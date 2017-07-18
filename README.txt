@@ -1,1 +1,2 @@
-Welcome to my Repository! LE MASTERRRR~
+Welcome to my Repository! Le Github Training Repo
+
